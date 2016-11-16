@@ -1,3 +1,5 @@
+:warning: The up to date version is now on https://github.com/PierrickP/cmcic :warning:
+
 # CMCIC
 
 [![Build Status](https://travis-ci.org/PierrickP/cmcic.png?branch=master)](https://travis-ci.org/PierrickP/cmcic)
